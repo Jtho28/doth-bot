@@ -6,4 +6,4 @@ Activate it <br />
 If you add a new dependency, add it to requirements.txt and install to env. <br />
 
 ### BOT
-Project to experiment with using langchain to make a more intelligent, general purpose (for now) Discord bot.
+Project to experiment with using langchain to make a more intelligent, general purpose (don't know the purpose yet) Discord bot.
